@@ -1,4 +1,4 @@
-# workflow research 🌊
+# workflow research
 ... an open-source toolkit to help you conduct intra-team workflow research
 
 ## Install Dependencies
