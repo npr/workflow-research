@@ -1,15 +1,15 @@
-# swig 🌊
-basic directory structure, dependencies and example tasks for gulp.js projects
+# workflow research 🌊
+... an open-source toolkit to help you conduct intra-team workflow research
 
 ## Install Dependencies
 - Node.js: https://nodejs.org/en/download/
 - Yarn: https://yarnpkg.com/en/docs/install
 - Gulp: `sudo npm install -g gulp`
 
-## Get Started
+## Contribute
 ```
-git clone https://github.com/joshosbrn/swig.git your-project
-cd your-project
+git clone https://github.com/joshosbrn/workflow-research.git
+cd workflow-research
 yarn install
 gulp
 ```
