@@ -1,7 +1,7 @@
 # workflow research
 ... an open-source toolkit to help you conduct intra- and cross-team workflow research
 
-*⚠️ ATTN: This toolkit is a work in progress! Not every link you click will take you somewhere. Likewise, the contents of the toolkit are in flux and we can't recommend you use it in practice yet. Watch this repo to follow along.*
+**⚠️ ATTN:** This toolkit is a work in progress! Not every link you click will take you somewhere. Likewise, the contents of the toolkit are in flux and we can't recommend you use it in practice yet. Watch this repo to follow along.
 
 ## Toolkit
 * [Overview](/src/docs/overview.md): Introduction to workflow research and how we might use it at NPR.
