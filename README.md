@@ -1,5 +1,10 @@
 # workflow research
-... an open-source toolkit to help you conduct intra-team workflow research
+... an open-source toolkit to help you conduct intra- and cross-team workflow research
+
+## toolkit
+* [Overview](/docs/overview.md): Introduction to workflow research and how we use it at NPR.
+* [Interviews](/docs/interviews/md): 
+* [Assumption Mapping](/docs/assumption-mapping.md):
 
 ## Install Dependencies
 - Node.js: https://nodejs.org/en/download/
