@@ -32,9 +32,9 @@ This toolkit is meant to be a guide, because you know your work and your organiz
 ## Why a toolkit?
 Portable, printable, adaptable.
 
-##Define relevant terms
+## Define relevant terms
 
-##Overview of concerns we're aware of
+## Overview of concerns we're aware of
 --> Articulate ethical / political concerns here
 
 
